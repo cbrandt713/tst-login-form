@@ -2,4 +2,8 @@
 
 ## Start
 
-To run the application, use `npm run dev`
+Install dependencies:
+`npm install`
+
+Run the application:
+`npm run dev`
