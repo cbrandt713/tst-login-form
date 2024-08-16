@@ -1,4 +1,5 @@
 import React, { SyntheticEvent } from "react";
+import "./InputAndLabelStyles.css";
 
 interface InputAndLabelProps {
   id: string;

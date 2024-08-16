@@ -1,6 +1,6 @@
-import { useStorage } from "./SessionStoreService";
-import "./UserSignupForm.css";
-import { InputAndLabel } from "./InputAndLabel";
+import { useStorage } from "../store/SessionStoreService";
+import "./UserSignupFormStyles.css";
+import { InputAndLabel } from "../inputAndLabel/InputAndLabel";
 
 /**
  * Some assumptions in this problem:
