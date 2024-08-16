@@ -1,0 +1,13 @@
+form {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+div {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 0.25rem;
+}
